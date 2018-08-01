@@ -1,0 +1,48 @@
+.header{
+    padding: 15px;
+}
+#header{
+    height: 200px;
+    width: 98%;
+    margin: auto;
+}
+.content_area{
+    padding: 0px;
+}
+.left{
+    width: 24%;
+    padding: 10px;
+    border: 1px solid #DDD;
+    min-height: 400px;
+    float: left;
+    box-sizing: border-box;
+    text-align: center;
+    align-content: center;
+    background: #021221;
+}
+.content{
+    width: 75%;
+    padding: 10px;
+    min-height: 400px;
+    box-sizing: border-box;
+    float: right;
+    text-align: center;
+}
+.content h1{
+    font-weight: bold;
+}
+.left p{
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+    
+}
+.footer{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1px solid #DDD;
+    text-align: center;
+    background: #021221;
+    color: white;
+}
